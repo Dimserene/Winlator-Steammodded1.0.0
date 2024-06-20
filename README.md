@@ -22,3 +22,9 @@ This simple method is to use Windows emulator (in this case winlator) to effortl
 10. Run the game (Balatro.exe) and run enough rounds to go through tutorial seed
 11. Then put mods of your choise into the same directory as step 9
 12. Enjoy
+
+### References
+- [Balatro Game Page](https://www.playbalatro.com/)
+- [Winlator GitHub](https://github.com/brunodev85/winlator)
+- [Lovely GitHub](https://github.com/ethangreen-dev/lovely-injector)
+- [Steammodded GitHub](https://github.com/Steamopollys/Steamodded)
