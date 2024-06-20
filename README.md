@@ -1,5 +1,6 @@
 ## Balatro Steammodded1.0.0 on winlator
-A guide to run Balatro on winlator with steammodded 1.0.0 alpha
+A guide to run Balatro on winlator with steammodded 1.0.0 alpha.
+
 This method is to use Windows emulator (in this case winlator) to effortlessly install lovely and steammodded 1.0.0 alpha.
 
 ### Preparation
