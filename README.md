@@ -14,7 +14,7 @@ This simple method is to use Windows emulator (in this case winlator) to effortl
 2. In the settings menu, set both box86 and box64 preset to `Stability`
 3. Create new container
 4. Click run (play button)
-5. Put Game directory (from PC, normally it will be `C:\Program Files(x86)\Steam\Steamapps\common\Balatro`) **directly into `C:\` **(in Winlator, It should look like `C:\Balatro`)
+5. (IMPORTANT) Put Game directory (from PC, normally it will be `C:\Program Files(x86)\Steam\Steamapps\common\Balatro`) directly into `C:\` (in Winlator, It should look like `C:\Balatro`)
 6. __Install lovely:__ Put `version.dll` into `Balatro` folder
 7. Start menu > System Tools > Wine Configuration
 8. In the `Libraries` tab, type `version` into the textbox > click `Add` > OK
