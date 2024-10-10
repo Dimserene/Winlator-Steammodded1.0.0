@@ -6,8 +6,8 @@ This simple method is to use Windows emulator (in this case winlator) to effortl
 ### Preparation
 - [Balatro](https://store.steampowered.com/app/2379780/Balatro/?l=tchinese) (the game itself)
 - [Latest winlator build](https://github.com/brunodev85/winlator/releases)
-- [Latest Lovely build](https://github.com/ethangreen-dev/lovely-injector/releases) (Recommended version: beta6)
-- [Steammodded 1.0.0 alpha build](https://github.com/Steamopollys/Steamodded/archive/refs/heads/main.zip)
+- [Lovely injector](https://github.com/ethangreen-dev/lovely-injector/releases) (Recommended version: 0.5.0 beta6)
+- [Latest Steamodded 1.0.0 alpha build](https://github.com/Steamopollys/Steamodded/archive/refs/heads/main.zip)
 
 ### Installation
 1. Install winlator and run the app
